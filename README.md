@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @kemalunel
-- 👀 I’m interested in anything which that related to the technology
+- 👋 Hi, I’m Kemal
 - 🌱 I’m depth-in researcher.
